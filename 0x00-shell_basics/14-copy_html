@@ -1,2 +1,3 @@
 #!/bin/bash
-cp *.htm ../
+./copy_html.sh
+
