@@ -1,2 +1,2 @@
 #!/bin/bash
-icp -u *.html ..
+cp -u *.html ../
